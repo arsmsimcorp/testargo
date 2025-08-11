@@ -33,6 +33,6 @@ data:
   index.html: |
     <html>
     <body>
-      <h1>Hello World from NGINX!</h1>
+      <h1>Hello World from Asish!</h1>
     </body>
     </html>
